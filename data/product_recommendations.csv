@@ -1,0 +1,6 @@
+Purchased_Category,Recommended_Category,Correlation_Strength
+Sports,Food,1120
+Food,Sports,1120
+Beauty,Sports,1102
+Sports,Beauty,1102
+Sports,Electronics,1070
