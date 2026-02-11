@@ -1,4 +1,5 @@
-E-Commerce Analytics & High-Speed ETL Pipeline
+**E-Commerce Analytics & High-Speed ETL Pipeline
+
 📌 Project Overview
 This project transforms raw, unstructured e-commerce data into actionable business intelligence. It addresses the common industry challenge of "Dirty Data" and slow ingestion speeds by implementing a Staging Table ETL Pattern in MySQL, coupled with a high-performance Power BI Executive Dashboard.
 
